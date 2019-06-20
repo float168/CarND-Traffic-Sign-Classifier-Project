@@ -1,4 +1,4 @@
-data
+vendor
 .ipynb_checkpoints
 *.h5
 models
